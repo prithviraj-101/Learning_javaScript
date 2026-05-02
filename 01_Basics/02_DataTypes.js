@@ -5,7 +5,7 @@ let age =18
 
 let state ; // undefines 
 /*
-number =>
+number 
 bigint
 string =""
 bolean = true/false
@@ -19,6 +19,7 @@ console.log(typeof undefined) ; // undefined
 console.log(typeof null) // object 
 
 /*
+difference between undefined and null .
 Feature	      undefined	           null
 Meaning	      Not assigned	    Intentionally empty
 Who sets it	  JavaScript	    Developer
